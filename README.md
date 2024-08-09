@@ -2,6 +2,31 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Technologies Used ( Frontend )
+
+- Typescript
+- React
+- Tailwind css
+
+# How to Run <br/>
+
+   <h2>Installation</h2>
+   
+   Clone the repository:   ``` git clone https://github.com/JahirPendhari09/Cube-Frontend-Assignment.git  ``` <br/>
+   Navigate to the project directory:   ``` cd frontend ``` <br/>
+   Install the dependencies:   ``` npm install ``` <br/>
+   Start the development server:   ``` npm run start ``` <br/>
+   Open your browser and visit:   ``` http://localhost:3000 ``` <br/>
+
+## Screenshots
+
+![Screenshot1](https://res.cloudinary.com/dxaovcjmr/image/upload/v1723204133/Screenshot_2024-08-09_at_5.06.50_PM_bipf43.png)
+![Screenshot2](https://res.cloudinary.com/dxaovcjmr/image/upload/v1723204133/Screenshot_2024-08-09_at_5.07.16_PM_u9potz.png)
+
+## Deployment
+
+The application is deployed on netlify and can be accessed [here](https://cubehaneef.netlify.app).
+
 ## Available Scripts
 
 In the project directory, you can run:
